@@ -70,5 +70,6 @@
     "uglify-js": "2.4.24",
     "watchify": "3.3.0",
     "xo": "0.7.1"
-  }
+  },
+  "registry": "npm"
 }
